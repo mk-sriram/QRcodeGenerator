@@ -10,3 +10,5 @@ function qrCodeGenerator(){
 
     console.log('past OriginalText')
 }
+
+// may have to use a canvas instead of a Img tag 
